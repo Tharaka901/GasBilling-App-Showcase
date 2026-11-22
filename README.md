@@ -35,7 +35,8 @@ A Flutter mobile app that sales reps use on the road to bill customers, manage c
 - Find customers by **name search or QR code scan**
 - Add items quickly with +/− quantity controls (refills, new cylinders and other items)
 - Automatic invoice with unit prices, sub total, **18% VAT** and grand total
-- Take payment straight from the invoice
+- Take payment by **cash, cheque or voucher**, or a mix of them, and issue a receipt
+- **Print or share** a VAT invoice (A4) straight from the phone
 - **Manual billing** and **gas meter billing**
 - View **previous invoices**
 
@@ -71,11 +72,15 @@ A Flutter mobile app that sales reps use on the road to bill customers, manage c
 |:---:|:---:|:---:|
 | <img src="screenshots/select-customer.jpg" width="230"> | <img src="screenshots/add-items.jpg" width="230"> | <img src="screenshots/invoice.jpg" width="230"> |
 
-| Route Stock | Route Summary |
-|:---:|:---:|
-| <img src="screenshots/stock.jpg" width="230"> | <img src="screenshots/summary.jpg" width="230"> |
+| Payment | Printed Invoice | Route Stock |
+|:---:|:---:|:---:|
+| <img src="screenshots/payment.jpg" width="230"> | <img src="screenshots/print-invoice.jpg" width="230"> | <img src="screenshots/stock.jpg" width="230"> |
 
-> Screenshots are taken with test data.
+| Route Summary |
+|:---:|
+| <img src="screenshots/summary.jpg" width="230"> |
+
+> Screenshots are taken with test data. Personal and business details are blurred.
 
 ---
 
@@ -89,4 +94,4 @@ _Coming soon_
 ## 👨‍💻 Developer
 
 **Tharaka Gunasinghe**, Full-stack Developer
-[GitHub](https://github.com/Tharaka901) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:tharakamihiri@gmail.com)
+[GitHub](https://github.com/Tharaka901) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR.EMAIL@example.com)
